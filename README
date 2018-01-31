@@ -1,0 +1,7 @@
+1. We added new class ScoreStore to manage saving game data
+2. We changed SetGame class to be Memory Game class. It is the main applet class. We changed layout and logic of buttonListeners
+3. We changed Solitaire class to Memory class. We changed logic of CardButtonListener and added 2 new buttons (quit and turn over).
+4. We changed the logic for set being valid in Set class.
+5. We only changed the size of the cards in Card class to fil more cards.
+6. We changed the way we initialize the deck in Deck class and the size of the deck.
+7. We changed Locations class to display symbols on smaller cards.
